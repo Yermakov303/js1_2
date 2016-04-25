@@ -16,7 +16,7 @@ result = 1/result;
 }
 
 else if(exp>0){
-   for (var i = exp; i>0; i--){
+   for (var i = exp; i>1; i--){
        result = result * num;
 } 
 }
